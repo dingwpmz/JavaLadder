@@ -32,4 +32,4 @@ RocketMQ从源码、实战、线上故障案例分析等维度深入剖析Rocket
 29. [源码分析 RocketMQ DLedger(多副本) 之日志复制-下篇](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484434&idx=1&sn=3234b76a43ed590777798db9e67d0881&scene=19#wechat_redirect)
 30. [基于 raft 协议的 RocketMQ DLedger 多副本日志复制设计原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484445&idx=1&sn=38f257fa05c27483feddc9fa55bbee14&scene=19#wechat_redirect)
 31. [RocketMQ 整合 DLedger(多副本)即主从切换实现平滑升级的设计技巧](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484452&idx=1&sn=798d3d3eb410edc98141462f337599a6&scene=19#wechat_redirect)
-32. [源码分析 RocketMQ DLedger 多副本即主从切换实现原理](
+32. [源码分析 RocketMQ DLedger 多副本即主从切换实现原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484458&idx=1&sn=b9519059c1b74668469f2765bd58224f&scene=19#wechat_redirect)
