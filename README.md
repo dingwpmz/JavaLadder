@@ -61,3 +61,21 @@ java进阶之梯，关注Java主流中间件，覆盖RocketMQ、Dubbo、Sentienl
 
 ##### 3.2 RocketMQ专栏
 
+1. [踩坑记：rocketmq-console 消费TPS为0，但消息积压数却在降低是个什么“鬼”](http://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484537&idx=1&sn=42922fc2b8713a75a2a0d2a97d570724&scene=19#wechat_redirect)
+2. [RocketMQ msgId与offsetMsgId释疑(实战篇)](https://mp.weixin.qq.com/mp/homepage?__biz=MzIzNzgyMjYxOQ==&hid=7&sn=01e061bb781e13c0433218a798498a37)
+3. [RocketMQ 一行代码造成大量消息丢失](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484718&idx=1&sn=de898f6efec78890e699eb02d8d1ee74&scene=19#wechat_redirect)
+4. [我的另一种参与 RocketMQ 开源社区的方式](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484822&idx=1&sn=ecaada01b1bcf73b3a9fb750872b8e9d&scene=19#wechat_redirect)
+5. [RocketMQ消息发送常见错误与解决方案](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485278&idx=1&sn=f05b5a8544db0e6d5605ba2638c59c05&scene=19#wechat_redirect)
+6. [RocketMQ学习环境搭建(RocketMQ安装与IDEA Debug环境搭建)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485300&idx=1&sn=065c3106340c91117bce1ec8dce9e6eb&scene=19#wechat_redirect)
+
+
+
+
+
+
+
+
+
+
+
+
