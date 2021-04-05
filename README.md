@@ -287,6 +287,16 @@ java进阶之梯，关注Java主流中间件，覆盖RocketMQ、Dubbo、Sentienl
 6. [java8实战：使用流收集数据之toList、joining、groupBy(多字段分组)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484335&idx=1&sn=4590cc4ac799baf0194ff5baa548eac2&scene=19#wechat_redirect)
 
 
+##### 3.11 Kafka专栏
+Kafka专栏
+
+1. [初识 Kafka Producer 生产者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484486&idx=1&sn=b0a21b6bff4df96e4ec3b53eecebc744&scene=19#wechat_redirect)
+2. [源码分析 Kafka 消息发送流程(文末附流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484493&idx=1&sn=000c91851e3c3922de853972741c4a22&scene=19#wechat_redirect)
+3. [KafkaProducer Sender 线程详解(含详细的执行流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484504&idx=1&sn=b165699e07daba036c909a34a8d57075&scene=19#wechat_redirect)
+4. [初始 Kafka Consumer 消费者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484509&idx=1&sn=12570192a3b916d5de2631068fb8b8c1&scene=19#wechat_redirect)
+5. [源码分析Kafka 消息拉取流程（文末两张流程图）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484544&idx=1&sn=9d03bbb5273bf210bd7af6db398209b3&scene=19#wechat_redirect)
+6. [Kafka 和 RocketMQ 之性能对比](
+
 # 版权说明
 本项目可以鼓励以学习目的进行分享传播，但未授权任何商业机构等任何商业行文。
 
