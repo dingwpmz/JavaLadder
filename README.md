@@ -9,6 +9,18 @@ java进阶之梯，关注Java主流中间件，覆盖RocketMQ、Dubbo、Sentienl
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210328160616845.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ByZXN0aWdlZGluZw==,size_16,color_FFFFFF,t_70#pic_center)
 
+# 走进作者
+
+1. [10年IT老兵给职场新人的一些建议](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484618&idx=1&sn=e24d7d19006f0d66e697e8d2be4aa508&scene=19#wechat_redirect)
+
+2. [程序员如何提高影响力](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485407&idx=1&sn=0e0de515b3a66ac91e55fdf583be5c0d&scene=19#wechat_redirect)
+
+3. [我的另一种参与 RocketMQ 开源社区的方式](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484822&idx=1&sn=ecaada01b1bcf73b3a9fb750872b8e9d&scene=19#wechat_redirect)
+
+4. [优秀程序员必备技能之如何高效阅读源码](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485573&idx=1&sn=4d936fa700b38b5158316bdaf1aeac68&scene=19#wechat_redirect)
+
+   
+
 『中间件兴趣圈』公众号分享的主要内容包含**开源项目、电子书、专栏**
 
 ## １、开源项目
@@ -215,9 +227,17 @@ java进阶之梯，关注Java主流中间件，覆盖RocketMQ、Dubbo、Sentienl
 
 30. [Elasticsearch Index Setting一览表](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484194&idx=1&sn=6363c521fff73b48a595da3c36ccffbc&scene=19#wechat_redirect)
 
+##### 3.7 Canal专栏
 
+1. [数据异构重器之 Canal 初探](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484854&idx=1&sn=b027e3a993c1322b6233d11fa1741901&scene=19#wechat_redirect)
+2. [一文详解 Canal Instance 设计理念与定制开发思路](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484870&idx=1&sn=d538d1c21dd586d09bcd958a7f535f9e&scene=19#wechat_redirect)
+3. [探究 Canal EventParser 的设计与实现奥妙](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484914&idx=1&sn=93f9b34de726fac5c323875d43863f98&scene=19#wechat_redirect)
+4. [Canal 如何保证数据库库事务的一致性](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484943&idx=1&sn=cccacadd3a212a303c280843741045f6&scene=19#wechat_redirect)
+5. [Canal 初次启动时如何定位同步位点(文末附流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484976&idx=1&sn=13a55aab9db8628d314dabd338f7491d&scene=19#wechat_redirect)
+6. [Canal binlog 日志管理器与GTID简介](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484990&idx=1&sn=34456da66ec97f7e79ea2c257be43b43&scene=19#wechat_redirect)
+7. [Canal binlog 日志 Dump 流程分析](
 
-##### 3.6 ElasticJob专栏
+##### 3.8 ElasticJob专栏
 源码分析ElasticJob研究系列主要要两个学习目标：
 
 - 了解分布式调度平台ElasticJob的实现原理
@@ -238,6 +258,33 @@ java进阶之梯，关注Java主流中间件，覆盖RocketMQ、Dubbo、Sentienl
 7. [源码分析ElasticJob事件监听器](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247483855&idx=1&sn=4211b70eacaff8af96241cfc9164c7d3&scene=19#wechat_redirect)
 
 
+##### 3.9 MyBatis专栏
+源码分析Mybatis专栏，目前重点关注Mybatis的初始化流程、SQL执行流程、Mybatis扩展机制与缓存机制。创作背景是我在落地公司全链路压测系统时，调研数据库层面的数据隔离方案时做的一些技术研究。
+
+1. [源码分析Mybatis MapperProxy初始化【图文并茂】](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484281&idx=1&sn=647b274d9137219b18e4efae21f71e39&scene=19#wechat_redirect)
+
+2. [源码分析Mybatis MappedStatement的创建流程](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484287&idx=1&sn=590144be1b01670da65ec64532b51fb1&scene=19#wechat_redirect)
+
+3. [【图文并茂】Mybatis执行SQL的4大基础组件详解](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484298&idx=1&sn=f69adc3bb123b82ad61e44ae26acac84&scene=19#wechat_redirect)
+
+4. [【图文并茂】源码解析MyBatis Sharding-Jdbc SQL语句执行流程详解](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484304&idx=1&sn=6b621fc5c245e30c9f4aa607467af043&scene=19#wechat_redirect)
+
+5. [源码分析Mybatis插件(Plugin)机制与实战](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484309&idx=1&sn=4b715329f73e3c18952446b062ef8560&scene=19#wechat_redirect)
+
+6. [Mybatis 一二级缓存实现原理与使用指南](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484405&idx=1&sn=f70f0b29cb925c29796379d1ec7a1e01&scene=19#wechat_redirect)
+
+##### 3.10 Java8实战
+1. [java8实战读书笔记：初识Stream、流的基本操作（流计算）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484268&idx=1&sn=02268a40f871c00c2b1845f47fad48b6&scene=19#wechat_redirect)
+
+2. [java8实战读书笔记：Lambda表达式语法与函数式编程接口](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484246&idx=1&sn=dd05e379acb0f24f7b57039c8567712d&scene=19#wechat_redirect)
+
+3. [java8实战读书笔记：复合Lambda表达式](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484259&idx=1&sn=d66dc682db9901f2392e37039720ab21&scene=19#wechat_redirect)
+
+4. [java8实战读书笔记：数值流、Stream创建与Optional类的使用](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484322&idx=1&sn=a410618d6a6071db18540ab0ac53c272&scene=19#wechat_redirect)
+
+5. [java8读书笔记：探究java8流收集数据原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484329&idx=1&sn=8e220e655f9cf3f4bdd760946bcea590&scene=19#wechat_redirect)
+
+6. [java8实战：使用流收集数据之toList、joining、groupBy(多字段分组)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484335&idx=1&sn=4590cc4ac799baf0194ff5baa548eac2&scene=19#wechat_redirect)
 
 
 # 版权说明
