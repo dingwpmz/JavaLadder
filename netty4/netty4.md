@@ -10,3 +10,4 @@
 6. [面试官：Netty的线程模型可不是Reactor这么简单](https://mp.weixin.qq.com/s/kcSI0yQH3HxZt5KFU-M8_w)
 7. [Netty进阶：手把手教你如何编写一个NIO客户端](https://mp.weixin.qq.com/s/vrf8bO_K1YIac96A-HEV8A)
 8. [Netty进阶：手把手教你如何编写一个NIO服务端](https://mp.weixin.qq.com/s/QZIXOT1fSmpu4di16vfyuQ)
+9. [阿里面试真题:NIO为什么不适合文件上传场景、如何优雅解决](https://mp.weixin.qq.com/s/VMiB-4a15TgsIA2W-c4HHg)
