@@ -112,7 +112,18 @@ java进阶之梯，旨在成体系剖析Java主流中间件，构建互联网分
 32. [源码分析 RocketMQ DLedger 多副本即主从切换实现原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484458&idx=1&sn=b9519059c1b74668469f2765bd58224f&scene=19#wechat_redirect)
 
 
-##### 3.3 Sentinel专栏
+##### 3.3 Kafka专栏
+Kafka专栏
+
+1. [初识 Kafka Producer 生产者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484486&idx=1&sn=b0a21b6bff4df96e4ec3b53eecebc744&scene=19#wechat_redirect)
+2. [源码分析 Kafka 消息发送流程(文末附流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484493&idx=1&sn=000c91851e3c3922de853972741c4a22&scene=19#wechat_redirect)
+3. [KafkaProducer Sender 线程详解(含详细的执行流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484504&idx=1&sn=b165699e07daba036c909a34a8d57075&scene=19#wechat_redirect)
+4. [初始 Kafka Consumer 消费者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484509&idx=1&sn=12570192a3b916d5de2631068fb8b8c1&scene=19#wechat_redirect)
+5. [源码分析Kafka 消息拉取流程（文末两张流程图）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484544&idx=1&sn=9d03bbb5273bf210bd7af6db398209b3&scene=19#wechat_redirect)
+6. [Kafka 和 RocketMQ 之性能对比](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485467&idx=1&sn=5c9d63449fc5bbaef3a2ae5e423e812e&scene=19#wechat_redirect)
+
+
+##### 3.4 Sentinel专栏
 
 以源码分析为主要手段，结合图解的方式深入剖析Sentienl限流的实现原理，带着问题看源码，加以思考、质疑并加以验证，该专栏不仅介绍Sentinel核心理念，更是笔者源码阅读方法论的一次实战。
 
@@ -133,7 +144,7 @@ java进阶之梯，旨在成体系剖析Java主流中间件，构建互联网分
 15. [Sentinel 系统自适应限流原理剖析与实战指导](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484745&idx=1&sn=0e6fe482b0774a2120ac4da61a42ade5&scene=19#wechat_redirect)
 16. [结合 Sentinel 专栏谈谈我的源码阅读方法](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484793&idx=1&sn=9c7a68579cd8a05f7f5f264eb6dc7726&scene=19#wechat_redirect)
 
-##### 3.4 源码分析Dubbo专栏
+##### 3.5 源码分析Dubbo专栏
 本系列文章主要针对Dubbo2.6.2(dubbox2.8.4)版本，从源码的角度分析Dubbo内部的实现细节，加深对Dubbo的各配置参数底层实现原理的理解，更好的指导Dubbo实践。
 
 
@@ -167,7 +178,7 @@ java进阶之梯，旨在成体系剖析Java主流中间件，构建互联网分
 27. [源码分析Dubbo 泛化调用与泛化实现原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484183&idx=1&sn=7003199bc56d51fa1ce6d240441c7351&scene=19#wechat_redirect)
 28. [Dubbo服务治理之灰度发布方案（版本发布控制影响范围）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484189&idx=1&sn=17c82d8ca5cd64cb66eb31e9a63ed190&scene=19#wechat_redirect)
 
-##### 3.5 ElasticSearch专栏
+##### 3.6 ElasticSearch专栏
 本专栏是对官方文档的完善与补充，立足与实战。
 
 1. [ElasticSearch Client详解](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247483658&idx=1&sn=37ba910f3507c1266554bfbaa8f589d8&scene=19#wechat_redirect)
@@ -290,15 +301,6 @@ java进阶之梯，旨在成体系剖析Java主流中间件，构建互联网分
 6. [java8实战：使用流收集数据之toList、joining、groupBy(多字段分组)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484335&idx=1&sn=4590cc4ac799baf0194ff5baa548eac2&scene=19#wechat_redirect)
 
 
-##### 3.11 Kafka专栏
-Kafka专栏
-
-1. [初识 Kafka Producer 生产者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484486&idx=1&sn=b0a21b6bff4df96e4ec3b53eecebc744&scene=19#wechat_redirect)
-2. [源码分析 Kafka 消息发送流程(文末附流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484493&idx=1&sn=000c91851e3c3922de853972741c4a22&scene=19#wechat_redirect)
-3. [KafkaProducer Sender 线程详解(含详细的执行流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484504&idx=1&sn=b165699e07daba036c909a34a8d57075&scene=19#wechat_redirect)
-4. [初始 Kafka Consumer 消费者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484509&idx=1&sn=12570192a3b916d5de2631068fb8b8c1&scene=19#wechat_redirect)
-5. [源码分析Kafka 消息拉取流程（文末两张流程图）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484544&idx=1&sn=9d03bbb5273bf210bd7af6db398209b3&scene=19#wechat_redirect)
-6. [Kafka 和 RocketMQ 之性能对比](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485467&idx=1&sn=5c9d63449fc5bbaef3a2ae5e423e812e&scene=19#wechat_redirect)
 
 
 # 版权说明
