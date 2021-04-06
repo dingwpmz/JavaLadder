@@ -1,5 +1,7 @@
 # JavaLadder
-java进阶之梯，旨在成体系剖析Java主流中间件，构建互联网分布式架构体系，助力突破大厂，从源码分析、架构设计、线上故障案例剖析、实战等４个维度开展,目前已覆盖Netty、RocketMQ、Dubbo、Sentienl、Kafka、Canal、ElasticSearch、ElasticJob等12个专栏近300篇文章。
+**中间件兴趣圈**公众号，一定能成为你在java领域的进阶之梯，旨在成体系剖析Java主流中间件，构建互联网分布式架构体系，助力突破大厂，从源码分析、架构设计、线上故障案例剖析、实战等４个维度开展,目前已覆盖Netty、RocketMQ、Dubbo、Sentienl、Kafka、Canal、ElasticSearch、ElasticJob等12个专栏近300篇文章。
+
+由于公众号对历史文章不太友好，应粉丝朋友们的要求，我将公众号所有专栏内容同步到github，希望对大家阅读带来便利。
 
 中间件技术是**进入互联网大厂的敲门砖，深入掌握1-2个主流中间件，很大可能性突破BAT等大厂，期待Star支持一波**
 
