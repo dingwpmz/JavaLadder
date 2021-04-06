@@ -298,8 +298,8 @@ Kafka专栏
 3. [KafkaProducer Sender 线程详解(含详细的执行流程图)](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484504&idx=1&sn=b165699e07daba036c909a34a8d57075&scene=19#wechat_redirect)
 4. [初始 Kafka Consumer 消费者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484509&idx=1&sn=12570192a3b916d5de2631068fb8b8c1&scene=19#wechat_redirect)
 5. [源码分析Kafka 消息拉取流程（文末两张流程图）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484544&idx=1&sn=9d03bbb5273bf210bd7af6db398209b3&scene=19#wechat_redirect)
-6. 1. ](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484544&idx=1&sn=9d03bbb5273bf210bd7af6db398209b3&scene=19#wechat_redirect)
-2. [Kafka 和 RocketMQ 之性能对比](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485467&idx=1&sn=5c9d63449fc5bbaef3a2ae5e423e812e&scene=19#wechat_redirect)
+6. [Kafka 和 RocketMQ 之性能对比](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247485467&idx=1&sn=5c9d63449fc5bbaef3a2ae5e423e812e&scene=19#wechat_redirect)
+
 
 # 版权说明
 本项目可以鼓励以学习目的进行分享传播，但未授权任何商业机构等任何商业行文。
