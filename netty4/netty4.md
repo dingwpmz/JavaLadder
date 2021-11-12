@@ -11,3 +11,7 @@
 7. [Netty进阶：手把手教你如何编写一个NIO客户端](https://mp.weixin.qq.com/s/vrf8bO_K1YIac96A-HEV8A)
 8. [Netty进阶：手把手教你如何编写一个NIO服务端](https://mp.weixin.qq.com/s/QZIXOT1fSmpu4di16vfyuQ)
 9. [阿里面试真题:NIO为什么不适合文件上传场景、如何优雅解决](https://mp.weixin.qq.com/s/VMiB-4a15TgsIA2W-c4HHg)
+10. [大厂Offer收割机：Netty处理写事件之连环四问，你能抗住吗？](https://mp.weixin.qq.com/s/NeZPKeAU2BuaH5u5hs_59A)
+11. [构建Netty4通道的体系化思维，这些方法你应该关注](https://mp.weixin.qq.com/s/3yGnJQVWvhCEf7oi7SWV_A)
+12. [NIO界最强“Hello World”,不服来辩！！！](https://mp.weixin.qq.com/s/5FEEi4NlhuTkIaO-n55U_Q)
+13. [网上关于“零拷贝”原理相关的文章满天飞，但你知道如何使用零拷贝吗](https://mp.weixin.qq.com/s/j83pq35Ts7yQ8Sjy955Ajw)
