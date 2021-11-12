@@ -61,10 +61,26 @@
 
 ## 3、专栏
 
-#### 3.1 Netty专栏
+#### 3.1 架构实战(技术干货)
+
+
+#### 3.2 重学Java高并发
+《重学Java高并发》专栏特色：结合10余年的工作经验，在实践中提炼总结高并发经验，将理论落到实处，不仅助力面试，更是真正提高技能。
+
+1. [《重学Java高并发》之“摸底考试”：你会使用多线程实现生产者-消费者协作模型吗？](https://mp.weixin.qq.com/s/c7mpY2z6AY9w9zf8cehxqA)
+2. [你管这“破玩意儿”叫锁](https://mp.weixin.qq.com/s/PL-oTc5J_pe5Oyb8mdltjQ)
+3. [java并发高频面试题:Sempahore的使用场景与常见误区](https://mp.weixin.qq.com/s/l8wELcF0JHH1xme2tLeT9w)
+4. [《重学Java高并发》同步转异步编程技巧与实战运用](https://mp.weixin.qq.com/s/n-nhua2y3GXyfJ1zUa-DIA)
+5. [《重学Java高并发》线程之间如何协作(父子线程如何优雅交互)](https://mp.weixin.qq.com/s/p_Z8q09bewQ6aESY7VcsEw)
+6. [disruptor在数据同步场景下的应用实战](https://mp.weixin.qq.com/s/th3yHfDfB-IkbINQBpqThA)
+7. [《重学Java高并发》disruptor是如何做到百万级吞吐？](https://mp.weixin.qq.com/s/-7RXNf8d5bDywbTisXOXDw)
+8. [《重学Java高并发》Disruptor使用实战](https://mp.weixin.qq.com/s/64RjeEOSvU4MSiiJDW4ykg)
+
+
+#### 3.3 Netty专栏
 《让天下没有难学的Netty》专栏将从通道篇、内存篇、性能篇、实战篇详细剖析Netty的实现原理、设计理念，同时通过抽取Apache顶级项目RocketMQ的网络通信模块，构建一个可直接使用的Netty网络通信框架。
 
-##### 3.1.1 网络通道篇
+##### 3.3.1 网络通道篇
 
 1. [Netty4 Channel 概述](https://mp.weixin.qq.com/s/mIq-NjA9vir4wHCe5qpqBQ)
 2. [Netty4 ChannelHandler 概述](https://mp.weixin.qq.com/s/n4duWYQIWyau7YLBqvYTHw)
@@ -80,7 +96,7 @@
 12. [NIO界最强“Hello World”,不服来辩！！！](https://mp.weixin.qq.com/s/5FEEi4NlhuTkIaO-n55U_Q)
 13. [网上关于“零拷贝”原理相关的文章满天飞，但你知道如何使用零拷贝吗](https://mp.weixin.qq.com/s/j83pq35Ts7yQ8Sjy955Ajw)
 
-##### 3.2 RocketMQ专栏
+##### 3.4 RocketMQ专栏
 
 1. [我的另一种参与 RocketMQ 开源社区的方式](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484822&idx=1&sn=ecaada01b1bcf73b3a9fb750872b8e9d&scene=19#wechat_redirect)
 2. [线上环境大规模RocketMQ集群不停机优雅升级实践](https://mp.weixin.qq.com/s/pUgbQXjaS5uxGrfhSZEVUQ)
@@ -123,7 +139,7 @@
 39. [源码分析 RocketMQ DLedger 多副本即主从切换实现原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484458&idx=1&sn=b9519059c1b74668469f2765bd58224f&scene=19#wechat_redirect)
 
 
-##### 3.3 Kafka专栏
+##### 3.5 Kafka专栏
 Kafka专栏
 
 1. [初识 Kafka Producer 生产者](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484486&idx=1&sn=b0a21b6bff4df96e4ec3b53eecebc744&scene=19#wechat_redirect)
@@ -146,7 +162,7 @@ Kafka专栏
 18. [答读者问：Kafka顺序消费吞吐量下降该如何优化？](https://mp.weixin.qq.com/s/WH3Js_GzqUjITJuJLvrptg)
 
 
-##### 3.4 Sentinel专栏
+##### 3.6 Sentinel专栏
 
 以源码分析为主要手段，结合图解的方式深入剖析Sentienl限流的实现原理，带着问题看源码，加以思考、质疑并加以验证，该专栏不仅介绍Sentinel核心理念，更是笔者源码阅读方法论的一次实战。
 
@@ -167,7 +183,7 @@ Kafka专栏
 15. [Sentinel 系统自适应限流原理剖析与实战指导](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484745&idx=1&sn=0e6fe482b0774a2120ac4da61a42ade5&scene=19#wechat_redirect)
 16. [结合 Sentinel 专栏谈谈我的源码阅读方法](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484793&idx=1&sn=9c7a68579cd8a05f7f5f264eb6dc7726&scene=19#wechat_redirect)
 
-##### 3.5 源码分析Dubbo专栏
+##### 3.7 源码分析Dubbo专栏
 本系列文章主要针对Dubbo2.6.2(dubbox2.8.4)版本，从源码的角度分析Dubbo内部的实现细节，加深对Dubbo的各配置参数底层实现原理的理解，更好的指导Dubbo实践。
 
 
@@ -201,7 +217,7 @@ Kafka专栏
 27. [源码分析Dubbo 泛化调用与泛化实现原理](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484183&idx=1&sn=7003199bc56d51fa1ce6d240441c7351&scene=19#wechat_redirect)
 28. [Dubbo服务治理之灰度发布方案（版本发布控制影响范围）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484189&idx=1&sn=17c82d8ca5cd64cb66eb31e9a63ed190&scene=19#wechat_redirect)
 
-##### 3.6 ElasticSearch专栏
+##### 3.8 ElasticSearch专栏
 本专栏是对官方文档的完善与补充，立足与实战。
 
 1. [ElasticSearch Client详解](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247483658&idx=1&sn=37ba910f3507c1266554bfbaa8f589d8&scene=19#wechat_redirect)
@@ -264,7 +280,7 @@ Kafka专栏
 
 30. [Elasticsearch Index Setting一览表](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484194&idx=1&sn=6363c521fff73b48a595da3c36ccffbc&scene=19#wechat_redirect)
 
-##### 3.7 Canal专栏
+##### 3.9 Canal专栏
 
 1. [数据异构重器之 Canal 初探](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484854&idx=1&sn=b027e3a993c1322b6233d11fa1741901&scene=19#wechat_redirect)
 2. [一文详解 Canal Instance 设计理念与定制开发思路](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484870&idx=1&sn=d538d1c21dd586d09bcd958a7f535f9e&scene=19#wechat_redirect)
@@ -274,7 +290,7 @@ Kafka专栏
 6. [Canal binlog 日志管理器与GTID简介](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484990&idx=1&sn=34456da66ec97f7e79ea2c257be43b43&scene=19#wechat_redirect)
 7. [Canal binlog 日志 Dump 流程分析](
 
-##### 3.8 ElasticJob专栏
+##### 3.10 ElasticJob专栏
 源码分析ElasticJob研究系列主要要两个学习目标：
 
 - 了解分布式调度平台ElasticJob的实现原理
@@ -295,7 +311,7 @@ Kafka专栏
 7. [源码分析ElasticJob事件监听器](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247483855&idx=1&sn=4211b70eacaff8af96241cfc9164c7d3&scene=19#wechat_redirect)
 
 
-##### 3.9 MyBatis专栏
+##### 3.11 MyBatis专栏
 源码分析Mybatis专栏，目前重点关注Mybatis的初始化流程、SQL执行流程、Mybatis扩展机制与缓存机制。创作背景是我在落地公司全链路压测系统时，调研数据库层面的数据隔离方案时做的一些技术研究。
 
 1. [源码分析Mybatis MapperProxy初始化【图文并茂】](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484281&idx=1&sn=647b274d9137219b18e4efae21f71e39&scene=19#wechat_redirect)
@@ -310,7 +326,7 @@ Kafka专栏
 
 6. [Mybatis 一二级缓存实现原理与使用指南](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484405&idx=1&sn=f70f0b29cb925c29796379d1ec7a1e01&scene=19#wechat_redirect)
 
-##### 3.10 Java8实战
+##### 3.12 Java8实战
 1. [java8实战读书笔记：初识Stream、流的基本操作（流计算）](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484268&idx=1&sn=02268a40f871c00c2b1845f47fad48b6&scene=19#wechat_redirect)
 
 2. [java8实战读书笔记：Lambda表达式语法与函数式编程接口](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484246&idx=1&sn=dd05e379acb0f24f7b57039c8567712d&scene=19#wechat_redirect)
